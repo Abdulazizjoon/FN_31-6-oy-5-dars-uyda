@@ -1,0 +1,12 @@
+.inputt1,.inputt2,.inputt3,.inputt4{
+    width: 100%;
+    height: 25px;
+    margin-top:15px;
+    padding-left: 20px;
+    font-size: 17px;
+}
+.btn1{
+    width: 100%;
+    margin-top: 30px;
+    margin-left:15px;
+}
